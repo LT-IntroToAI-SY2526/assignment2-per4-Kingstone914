@@ -11,10 +11,10 @@ This assignment is about learning and applying the while loop and iterating thro
 5. Push your code to github for grading
 
 ## Reflection Questions
-1. What was difficult for you while completing the match function?
+1. What was difficult for you while completing the match function? Everything was difficult while completing the match functoin.
 
 
 
-2. Explain how you could use the match function for extracting information from a movie database.
+2. Explain how you could use the match function for extracting information from a movie database. You can make it search the movie database for a certain information like date or title. It will give through the database until it finds the information that you're looking for.
 
 
